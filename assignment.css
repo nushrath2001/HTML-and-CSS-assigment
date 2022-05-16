@@ -1,0 +1,53 @@
+ h1 {
+     color: darkcyan;
+ }
+
+ h3 {
+     color: lawngreen;
+
+
+ }
+
+ .all {
+     display: flex;
+     text-align: left;
+     justify-content: flex-end;
+     background-position: 10%;
+ }
+
+ .all .team1 {
+     background-color: darkcyan;
+     height: auto;
+     width: 100vw;
+
+
+ }
+
+ .all h1 {
+     color: aliceblue;
+     margin-left: 20%;
+ }
+
+ .all p {
+     color: aliceblue;
+ }
+
+ .all .team2 {
+     background-color: springgreen;
+     height: auto;
+     width: 100vw;
+
+
+
+
+ }
+
+ .all p {
+     margin-left: 20%;
+ }
+
+ input {
+     margin-left: 20%;
+     background-color: chartreuse;
+     text-align: center;
+ }
